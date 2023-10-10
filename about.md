@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Course Overview
+permalink: /about/
+---
 
 # Overview
 ### Winter 2024: Data Visualization – ALA 470
