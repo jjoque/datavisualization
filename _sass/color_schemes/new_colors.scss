@@ -1,2 +1,3 @@
-$color-scheme: new_colors !default;
-$sidebar-color: $white !default;
+@import "./color_schemes/dark";
+
+$sidebar-color: $white;
