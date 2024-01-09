@@ -25,6 +25,7 @@ Selections: Bertin, Jacques. Semiology of Graphics: Diagrams Download Semiology 
 *Read pages 1-13 (pdf pgs 3-14). Then spend some time looking at the chart on page 96 (pdf page 70) and try to make as much sense of it as possible.
 
 ### January 22: Drawing graphs
+[Lab 1 - Drawing](labs/labs/lab1.html)
 
 ## History of Data Visualization + R
 
