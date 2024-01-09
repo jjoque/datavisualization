@@ -4,4 +4,4 @@ plugins:
 - jekyll-remote-theme
 baseurl: "/datavisualization"
 url: "https://jjoque.github.io"
-color-scheme: new_colors
+color-scheme: dark
