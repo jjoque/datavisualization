@@ -1,5 +1,6 @@
 ---
-title: Course Overview
+layout: default
+title: Schedule
 permalink: /about/
 ---
 
