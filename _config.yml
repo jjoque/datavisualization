@@ -1,5 +1,5 @@
 name: "ALA 470: Data Visualization"
-remote_theme: alshedivat/al-folio
+remote_theme: "daviddarnes/alembic"
 plugins:
 - jekyll-remote-theme
 baseurl: "/datavisualization"
