@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Lab 1 - Drawing
-parent: labs
+parent: Labs
 ---
 some text
