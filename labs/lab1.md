@@ -1,5 +1,7 @@
 ---
-title: Lab 1 - Drawing
+layout: default
+title: Labs
+has_children: true
 ---
 
-Our first lab is drawing
+We will do some labs
