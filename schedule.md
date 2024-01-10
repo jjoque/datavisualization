@@ -16,16 +16,16 @@ sign up to share a visualization
 
 ## Describing Graphics + Intro to Data Visualization
 
-### January 17: Making Graphs
+### January 17: Drawing graphs
+[Lab 1 - Drawing](labs/labs/lab1.html)
+
+### January 22: Making Graphs
 
 Wainer, Howard. "How to Display Data Badly." The American Statistician 38, no. 2 (1984): 137-147.
 
 Selections: Bertin, Jacques. Semiology of Graphics: Diagrams, Networks, Maps. ESRI Press, 1983.
 
 *Read pages 1-13 (pdf pgs 3-14). Then spend some time looking at the chart on page 96 (pdf page 70) and try to make as much sense of it as possible.
-
-### January 22: Drawing graphs
-[Lab 1 - Drawing](labs/labs/lab1.html)
 
 ## History of Data Visualization + R
 
