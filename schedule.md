@@ -38,30 +38,34 @@ Selection from: Tufte, Edward R. "The visual display of quantitative data." Ches
 
 sign up for one on one meetings
 
-### January 31: History of Data Visualization II
+### January 31: Introduction to R and Tidyverse II
+
+### February 5: History of Data Visualization II
 Beniger, James R., and Dorothy L. Robyn. "Quantitative graphics in statistics: A brief history. "Quantitative graphics in statistics: A brief history." The American Statistician 32, no. 1 (1978): 1-11.
 
 Selection from: Halpern, Orit. Beautiful data.  Durham, NC: Duke University Press, 2015. Pgs. 1-17
 
-### February 5: Introduction to R and Tidyverse II
-
 ## Organizing Data
 
-### February 7: Organizing Data I
+### February 7: More R
+
+Dataset Due - February 9
+
+### February 12:  Organizing Data I
 Broman, Karl W., and Kara H. Woo. "Data organization in spreadsheets." The American Statistician 72, no. 1 (2018): 2-10.
 
-Dataset Due - February 10
+### February 14: More R II
 
-### February 12:  More R
-
-### February 14: Organizing Data II
+### February 19: Organizing Data II
 Wickham, Hadley. "Tidy data." Journal of statistical software 59, no. 1 (2014): 1-23.
-
-### February 19:  More R II
 
 ## Data Knowledge + Data Manipulation
 
-### February 21: Data Knowledge I
+### February 21: Data Manipulation in R I
+
+### February 26 & 28: Spring Break
+
+### March 4: Data Knowledge I
 Anderson, Chris. "The end of theory: the data deluge makes the scientific method obsoleteLinks to an external site..” Wired Magazine 16.07. (2008).
 
 Bowker, Geoffrey C. "Big Data, Big Questions The Theory/Data Thing." International Journal of Communication 8 (2014): 1795-1799.
@@ -70,27 +74,21 @@ Catherine D'Ignazio and Lauren F. Klein. "Feminist data visualization." In Works
 
 Recommended: Drucker, Johanna. "Humanities approaches to graphical display." Digital Humanities Quarterly 5, no. 1 (2011): 1-21.
 
-### February 26 & 28: Spring Break
+### March 6: Data Manipulation in R II
 
-### March 4: Data Manipulation in R I
-
-### March 6: Data Knowledge II
+### March 11: Data Knowledge II
 Zimmerman, Andrew. "Anti-Semitism as Skill: Rudolf Virchow's 'Schulstatistik' and the Racial Composition of Germany." Central European History 32, no. 4 (1999): 409-429
 
 Angwin et al. “Machine Bias.” ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 
 Larson, et al. “How we Analyzed the COMPAS recidivism algorithm.” ProPublica. https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 
-### March 11: Data Manipulation in R II
-
 ## How to Make Things Sensible + Mapping
 
-### March 13: How to Make Things Sensible
+### March 13: Mapping using Leaflet I
+
+### March 18:  How to Make Things Sensible
 Rancier, Jacques. “The Distribution of the Sensible” in The Politics of Aesthetics. Trans. Gabriel Rockhill. Bloomsbury, 2004 pgs 7-19.
-
-
-### March 18: Mapping using Leaflet I
-
 
 ### March 20: Leaflet II
 
