@@ -29,14 +29,14 @@ Selections: Bertin, Jacques. Semiology of Graphics: Diagrams, Networks, Maps. ES
 
 ## History of Data Visualization + R
 
-### January 24: History of Data Visualization I
+### January 24: Introduction to R and Tidyverse
+
+### January 29: History of Data Visualization I
 Friendly, Michael. "A brief history of data visualization." In Handbook of data visualization, pp. 15-56. Springer Berlin Heidelberg, 2008.
 
 Selection from: Tufte, Edward R. "The visual display of quantitative data." Cheshire, CT: Graphics (1983).
 
 sign up for one on one meetings
-
-### January 29: Introduction to R and Tidyverse
 
 ### January 31: History of Data Visualization II
 Beniger, James R., and Dorothy L. Robyn. "Quantitative graphics in statistics: A brief history. "Quantitative graphics in statistics: A brief history." The American Statistician 32, no. 1 (1978): 1-11.
