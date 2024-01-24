@@ -21,3 +21,7 @@ We will complete this lab in two parts over two class sessions. The first sessio
 -	Technology track - to do: remake the bar chart by serotypes from above, but make the bars for high risk serotypes a different color than the others. Hint: remake the table so it includes the count by high_risk (they should all be the same for each serotype) and then set the color variable in the aesthetic to the high_risk column
 
 To turn in your portion of the lab please create png files for each of the to do sections and then save your entire lab as a pdf (by selecting File -> Print and then saving as a pdf). To create the png files you use the png() and dev.off() commands as shown in the lab.
+
+Additional Resources:
+- Tidyverse book, which is very helpful: https://r4ds.had.co.nz/index.html
+- Documentation for ggplot2 https://ggplot2.tidyverse.org/reference/
