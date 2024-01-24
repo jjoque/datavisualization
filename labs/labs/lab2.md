@@ -25,3 +25,8 @@ To turn in your portion of the lab please create png files for each of the to do
 Additional Resources:
 - Tidyverse book, which is very helpful: https://r4ds.had.co.nz/index.html
 - Documentation for ggplot2 https://ggplot2.tidyverse.org/reference/
+
+And, a few places for helping select nice colors:
+- https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+- https://ggplot2.tidyverse.org/reference/index.html
+- https://sanzo-wada.dmbk.io/
