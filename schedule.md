@@ -92,9 +92,6 @@ Rancier, Jacques. “The Distribution of the Sensible” in The Politics of Aest
 
 ### March 20: Leaflet II
 
-March 21: Midterm paper due
-
-
 ## Images of Networks and Networks of Images
 
 ### March 25: Networks of Images
